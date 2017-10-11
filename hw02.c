@@ -49,8 +49,6 @@ int is_bit_set(unsigned char v, unsigned char i) {
   else{
     return 0;
   }
-}
-
   return 0;
 }
 
